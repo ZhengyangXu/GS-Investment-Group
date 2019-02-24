@@ -1,1 +1,4 @@
-﻿# GS-Investment-GroupGS Investment Group projectAI in real estate.
+﻿# GS-Investment-Group
+GS Investment Group project
+
+
